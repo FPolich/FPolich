@@ -1,7 +1,10 @@
 ### ¡Hola! Soy Francisco Polich 👋
 
-- 🔭 Trabajando como frontend developer
-- 🌱 Aprendiendo sobre javascript y .Net
+- ✔️ Fullstack Developer (o fullstack overflow(?)
+- 🔭 Trabajando como Frontend Developer
+- 🌱 Siempre hay algo nuevo para aprender de JavaScript y .Net
+- 🐛 QA Automation (Cypress)
+- 🍪 Subo lo que aprendo de videojuegos y los eventos que voy acá: https://www.instagram.com/frannpolich/
 - 📫 Contacto: franciscopolich@gmail.com
   
   <div align="center">
